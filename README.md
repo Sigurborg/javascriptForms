@@ -1,1 +1,3 @@
 # javascriptForms
+I took like 4 hours trying to begin this project but ended up earesing everything. Finally I was able to make things work. I had a problem with my submit buttom that took me an hour to figure out until smári ponted out I had ordered js to devalue it witch I hadn't noticed - so sometimes you just need another type of eyes to look over the code. 
+I would say I learned a lot doing this project compared to how difficult js is for me.
